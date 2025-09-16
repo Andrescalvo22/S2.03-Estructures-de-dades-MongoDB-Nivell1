@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "68c94c55d4a9a9f078159017"
+  },
+  "name": "Optic Supplier LTD",
+  "address": {
+    "street": "Carrer Calabria",
+    "number": "12",
+    "floor": "2",
+    "door": "3",
+    "city": "Barcelona",
+    "postal code": "08015",
+    "country": "Spain"
+  },
+  "phone": "+34620897113",
+  "fax": "+34620891124",
+  "taxID": "SP12345678"
+},
+{
+  "_id": {
+    "$oid": "68c94db6d4a9a9f078159019"
+  },
+  "name": "Vision Supplies Inc",
+  "addres": {
+    "street": "Carrer LLacuna",
+    "number": "5",
+    "floor": "4",
+    "door": "3",
+    "city": "Barcelona",
+    "postal code": "08005",
+    "country": "Spain"
+  },
+  "phone": "+34685665424",
+  "fax": "+34685665424",
+  "taxID": "SP987654321"
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68c98b3cd4a9a9f078159034"
+  },
+  "name": "Luis Rodríguez",
+  "phone": "+34667895397",
+  "email": "luisrodriguez@gmail.com",
+  "position": "Sales Assistant"
+},
+{
+  "_id": {
+    "$oid": "68c98c22d4a9a9f078159036"
+  },
+  "name": "Santiago Leal",
+  "phone": "+346910582347",
+  "email": "santiagoleal@gmail.com",
+  "position": "Sales Assistant"
+}]
