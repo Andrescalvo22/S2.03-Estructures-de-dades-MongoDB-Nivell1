@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "68c987d7d4a9a9f07815902b"
+  },
+  "name": "Andrew",
+  "address": {
+    "street": "Carrer LLedoner",
+    "number": "2",
+    "floor": "5",
+    "door": "1",
+    "postal code": "08035",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "phone": "+34669105872",
+  "email": "andrewtate@gmail.com",
+  "registerdate": "16/09/2025",
+  "recommendedby": null
+},
+{
+  "_id": {
+    "$oid": "68c98996d4a9a9f07815902d"
+  },
+  "name": "Sarah Calvo",
+  "address": {
+    "street": "Carrer de la Marina",
+    "number": "244",
+    "floor": "3",
+    "door": "1",
+    "postalcode": "08013",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "phone": "680956789",
+  "email": "sarahcalvop@gmail.com",
+  "registerdate": "17/09/2025",
+  "recommendedby": "68c987d7d4a9a9f07815902b"
+}]

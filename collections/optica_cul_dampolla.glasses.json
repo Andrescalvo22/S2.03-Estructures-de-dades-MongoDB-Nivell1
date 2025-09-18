@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "68c950d0d4a9a9f078159020"
+  },
+  "brand": "Ray-Ban",
+  "prescription": {
+    "left": -1.5,
+    "right": -1.25
+  },
+  "frameType": "plastic",
+  "frameColor": "black",
+  "lensColor": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 120.5,
+  "supplierId": "68c94c55d4a9a9f078159017"
+},
+{
+  "_id": {
+    "$oid": "68c9512dd4a9a9f078159022"
+  },
+  "brand": "Oakley",
+  "prescription": {
+    "left": -2,
+    "right": -1.75
+  },
+  "frameType": "metal",
+  "frameColor": "silver",
+  "lensColor": {
+    "left": "gray",
+    "right": "gray"
+  },
+  "price": 150,
+  "supplierId": "68c94db6d4a9a9f078159019"
+}]
